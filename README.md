@@ -642,7 +642,7 @@ div p {
 
 ---
 
-## 14. Combinator Comparison
+## Combinator Comparison
 Compare descendant combinator and child combinator.
 
 ```html
@@ -675,7 +675,7 @@ div > p {
 }
 ```
 
-## 15. Selector List
+## Selector List
 Use a selector list to apply the same style to multiple elements.
 
 ```html
@@ -701,7 +701,7 @@ h1, p, div {
 }
 ```
 
-## 16. Child Combinator
+## Child Combinator
 Use a child combinator to style direct children of a div element.
 
 ```html
@@ -730,7 +730,7 @@ div > p {
 }
 ```
 
-## 17. Box Model
+## Box Model
 Use CSS to demonstrate the box model by setting margin, border, padding, and content area values.
 
 ```html
@@ -757,7 +757,7 @@ Use CSS to demonstrate the box model by setting margin, border, padding, and con
 }
 ```
 
-## 18. Display Property
+## Display Property
 Set different display properties (block, inline, inline-block) for elements.
 
 ```html
@@ -791,7 +791,7 @@ Set different display properties (block, inline, inline-block) for elements.
 }
 ```
 
-## 19. Width Properties
+## Width Properties
 Set the width, min-width, and max-width of a div element.
 
 ```html
@@ -817,7 +817,7 @@ Set the width, min-width, and max-width of a div element.
 }
 ```
 
-## 20. Height Properties
+## Height Properties
 Set the height, min-height, and max-height of a div element.
 
 ```html
@@ -843,7 +843,7 @@ Set the height, min-height, and max-height of a div element.
 }
 ```
 
-## 21. Margin, Border, Padding
+## Margin, Border, Padding
 Set different margin, border, and padding values for a div element.
 
 ```html
