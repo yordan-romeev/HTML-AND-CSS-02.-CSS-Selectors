@@ -1,0 +1,8 @@
+.height-example {
+   /* Set the height, min-height, and max-height */
+   height: 50vh;
+   min-height: 200px;
+   max-height: 400px;
+
+   border: 1px solid black;
+}
